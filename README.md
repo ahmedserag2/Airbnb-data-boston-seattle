@@ -8,18 +8,25 @@ Enviroment:
 Using jupyter notebooks,python 3
 # libraries used:
 1- pandas
+
 2- scikit learn
+
 3- matplotlib , sea born
 
 # data sets used in analysis
 boston : calendar , listings
+
 Seattle : calendar
+
 style  : data frame names(name_df)
 
 # questions the analysis aims to answer:
 1- relation between the price,beds ,accomodation and more
+
 2- realtion between accomodation and beds
+
 3- average,extreme prices around in boston
+
 4- when is boston most frequently visited
 
 #conclusion:
